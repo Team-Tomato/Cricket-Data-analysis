@@ -1,3 +1,7 @@
+This project was developed as part of [Student code-In 2020](https://scodein.tech/). We thank SCI team for the wonderful opportunity.
+
+---
+
 # Cricket Data Analysis
 
 ## Description
@@ -30,3 +34,11 @@ As a first step, The video clip of a single cricket player will be analysed and 
 
 - FastAPI
 - PyTorch
+
+---
+
+### Reviewers
++ [Tamilarasu MK](https://github.com/tamilarasumk731)
++ [Inbasasi S](https://github.com/InbasasiS)
++ [Sridharan G](https://github.com/smartsri18)
++ [Akbar Habeeb B](https://github.com/AkbarHabeeb)
